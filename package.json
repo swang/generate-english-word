@@ -1,6 +1,6 @@
 {
   "name": "generate-english-word",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "generates legitimate looking english words based on trigram frequency of dict",
   "main": "lib/index.js",
   "scripts": {
