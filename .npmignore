@@ -1,0 +1,11 @@
+.DS_Store
+npm-debug.log
+lib/tests/*.js
+src
+.travis.yml
+.jshintignore
+.jshintrc
+.jscsrc
+.eslintrc
+trigrams.json
+words*.txt
