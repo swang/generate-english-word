@@ -1,5 +1,5 @@
 # generate-english-word
-generates random english word
+generates random english word. you probably shouldn't use this yet.
 
 # license
 ISC
